@@ -26,11 +26,11 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?haghouli&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haghouli&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?haghouli&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haghouli&theme=tokyonight" />
 </p>
 
 ---
